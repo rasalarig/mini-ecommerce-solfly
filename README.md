@@ -16,7 +16,7 @@ Teste Full Stack para analisar a capacidade de candidatos a vagas de TI para des
   - BANCO DE DADOS: Oracle, Postgre ou Mysql.
 
 # NECESSIDADES DEVOPS
-- Mater um repositório GIT aberto para analisarmos os fontes
+- Manter um repositório GIT aberto para analisarmos os fontes
 - Subir a aplicação em algum servidor, de preferência o HEROKU para navegar no "MINI-ECOMMERCE"
 
 # DOCUMENTAÇÃO
